@@ -44,7 +44,7 @@ print("==================================================")
 
 #print hasil perhitungan
 print("jumlah data:", len(Data_utama))
-print("Rata-rata:", Rata_rata(Data_utama))
+print("Rata-rata:", Rata_rata(Data_utama), "%")
 print("Data Maksimum Kelembapan Tanah:", max(Data_utama), "%")
 print("Data Minimum Kelembapan Tanah:", min(Data_utama), "%")
 
