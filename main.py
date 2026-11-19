@@ -7,7 +7,7 @@ Data_Inti = [ 22, 28, 34, 41, 55,
 # Data Uji,  5 data
 Data_Uji = [24, 33, 44, 55, 66]
 
-#Apabila data utama hanya ingin di data realistis, maka Data_utama = Data_Realistis,Begitu juga sebaliknya
+#Apabila data utama hanya ingin di data Inti, maka Data_utama = Data_Inti,Begitu juga sebaliknya
 Data_utama = Data_Uji + Data_Inti
 
 #Fungsi
